@@ -1,3 +1,4 @@
 shop for groceries
-take cat to groomer
+pick up prescription
+take dog to groomer
 dentist at 2pm
